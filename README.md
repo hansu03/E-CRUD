@@ -18,3 +18,20 @@ So you can add this app in your resume as well.
 - thats it you have successfully imported my projects and executed in your computer
  Why i need to download further stuffs?
 =because nodemodules folder can't be uploaded in github and as you know it stores all the dependencies inside .
+
+
+HOME PAGE
+![image](https://user-images.githubusercontent.com/114220372/232578724-c269e2e8-dc25-4a60-812b-db39ffde4883.png)
+
+ABOUT PAGE
+![image](https://user-images.githubusercontent.com/114220372/232578920-be01459f-e0c6-4df8-871f-756068783072.png)
+
+
+ADD USER
+![image](https://user-images.githubusercontent.com/114220372/232579267-5b6b1111-b32b-4302-be9f-ec3199b78728.png)
+
+
+PAGE LOOKS LIKE:
+![image](https://user-images.githubusercontent.com/114220372/232579456-dbf504b8-aa9a-46e6-bdc7-7bec62aa153c.png)
+
+
