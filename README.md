@@ -34,4 +34,6 @@ ADD USER
 PAGE LOOKS LIKE:
 ![image](https://user-images.githubusercontent.com/114220372/232579456-dbf504b8-aa9a-46e6-bdc7-7bec62aa153c.png)
 
+E-CRUD is used to show up crud operation and add new user details, delete users  deatils , and  update output.
+
 
